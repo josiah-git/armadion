@@ -70,7 +70,7 @@ Ask your system: install nginx
 ## 🛠️ Setup
 
 ```bash
-git clone https://github.com/youruser/armadion.git
+git clone https://github.com/josiahodonnell/armadion.git
 cd armadion
 bash setup.sh   # (custom installer coming soon)
 
