@@ -1,3 +1,5 @@
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
 # 🛡️ Armadion
 
 **Armadion** is an autonomous infrastructure agent powered by local LLMs (such as CodeLlama via `llama.cpp`). It interprets natural language prompts and transforms them into actionable commands, Ansible playbooks, or diagnostics—without requiring internet access or cloud-based AI APIs.
